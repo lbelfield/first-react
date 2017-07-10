@@ -1,0 +1,13 @@
+.Card-container {
+    margin: 1em;
+}
+
+.Name-font {
+    font-size: 1.25em; 
+    font-weight: bold;
+}
+
+.Person-details {
+    display: inline-block;
+    margin-left: 10px;
+}
